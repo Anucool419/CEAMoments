@@ -48,11 +48,164 @@
       color: maroon;
     }
     .image1 {
-      text-align: left;
+      float: right;
        margin-top: 0px;
         
         margin-left: 100px;
         
       }
-    
+      .vis{
+        border-radius: 50px;
+        background-color: blue;
+        width:auto;
+      
+        margin-left: 50px;
+        color:azure;
+        float: left;
+      }
+      .vis h1{
+        font-size:40px;
+        color:azure;
+      }
+      .vis p{
+        font-size: 20px;
+        color:azure;
+      }
+      .motive{border-radius: 50px;
+        background-color: purple;
+        width:auto;
+        
+        margin-right: 50px;
+        color:azure;
+        text-align: right;
+        float:right;
+
+      }
+      .motive h1{
+        font-size:40px;
+        color:azure;
+      }
+      .motive p{
+        font-size: 20px;
+        color:azure;
+      }
+      .role{
+        border-radius: 50px;
+        background-color: red;
+        width:auto;
+      
+        margin-left: 50px;
+        color:azure;
+        float: left;}
+        .role h1{
+          font-size:40px;
+          color:azure;
+        }
+        .role p{
+          font-size: 20px;
+          color:azure;
+        }
+        .mission{border-radius: 50px;
+          background-color: orange;
+          width:auto;
+          
+          margin-right: 50px;
+          color:azure;
+          text-align: right;
+          float:right;
+  
+        }
+        .mission h1{
+          font-size:40px;
+          color:azure;
+        }
+        .mission p{
+          font-size: 20px;
+          color:azure;
+        }
+        .Responsibility {
+          text-align: left;
+          color: brown;
+        }
+        .Responsibility p{
+          text-align: left;
+          color: brown;
+        }
+        .Adv h1{
+          
+          
+          margin-left:20px;
+          text-align: center;
+          font-size:40px;
+        }
+        .Adv1 {
+          margin-left: 20px;
+          background-color: beige;
+          color:black;
+          display: flex ;
+          flex-direction: row;
+          border-radius: 50px;
+
+          
+        }
+        .Adv1 p{
+          margin-left: 20px;
+          text-align:center;
+          font-size: 40px;
+
+        }
+        .Adv2 {
+          margin-left: 20px;
+          text-align:right;
+          font-size: 40px;
+          background-color: lightblue;
+          color:black;
+          display: flex ;
+          flex-direction: row;
+          border-radius: 50px;
+
+          
+        }
+        .Adv3 {
+          margin-left: 20px;
+          text-align:right;
+          font-size: 40px;
+          background-color: aquamarine;
+          color:black;
+          display: flex ;
+          flex-direction: row;
+          border-radius: 50px;
+
+          
+        }
+        .Adv4 {
+          margin-left: 20px;
+          text-align:right;
+          font-size: 40px;
+          background-color: coral;
+          color:black;
+          display: flex ;
+          flex-direction: row;
+          border-radius: 50px;
+
+          
+        }
+        .stu{
+          margin-left: 350px;
+          text-align: center;
+          display: flex ;
+          flex-direction: row;
+
+        }
+        .feedback p{
+          text-align: left;
+          font-size: 25px;
+          margin-left: 20px;
+        }
+        .feedback p1{
+          text-align: center;
+        }
+        .login{
+          text-align: right;
+        }
   
