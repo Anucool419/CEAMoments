@@ -10,7 +10,9 @@ function Navbar() {
     <div className='navbar'>
         <div className='leftside'></div>
         <img src={Logo}/>
-        <div className="rightside"></div>
+        <div className="rightside">
+          <button className="login">Login here</button>
+        </div>
       
       
         
